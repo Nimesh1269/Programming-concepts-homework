@@ -1,7 +1,7 @@
 /*
 	IM/2019/073
 	Nimesh Heshan
-	Homework 06
+	Homework  Number 06
 */
 
 #include<iostream>
